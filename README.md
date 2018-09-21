@@ -1,1 +1,1 @@
-# BTI7252
+# BTI7252 Smart Home Projekt
