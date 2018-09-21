@@ -39,10 +39,7 @@
   - Bewegung unerlaubt
 - Ungebungsdaten &amp; Alarme
   - O2
-  - CO2
-
-# 2
-, Temperatur, Flüsse(Wasser, Strom)
+  - CO2, Temperatur, Flüsse(Wasser, Strom)
 - Klima
   - Heizen/Kühlen
 - Asset Tracking
