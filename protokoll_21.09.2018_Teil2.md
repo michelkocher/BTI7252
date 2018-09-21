@@ -38,9 +38,9 @@
   - Fenster offen
   - Bewegung unerlaubt
 - Ungebungsdaten &amp; Alarme
-  - O
-# 2
-, CO
+  - O2
+  - CO2
+
 # 2
 , Temperatur, Flüsse(Wasser, Strom)
 - Klima
