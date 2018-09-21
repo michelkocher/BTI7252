@@ -50,12 +50,12 @@
 ## Systemaufteilung
 
  ![Basic principle](/pictures/view1.jpg)
-1. 1)Sensoren
-2. 2)Aktoren
-3. 3)Digitales Abbild
-4. 4)Applikationen
-5. 5)Widget (Bedienelement)
-6. 6)GUI (Zusammenfassung Widged)
+1. Sensoren
+2. Aktoren
+3. Digitales Abbild
+4. Applikationen
+5. Widget (Bedienelement)
+6. GUI (Zusammenfassung Widged)
 
 Durch diese Architektur kann das System problemlos erweitert werden (rot im Bild). Spezialisierte Teams kümmern sich um die verschiedenen Teile (grüne Pfeile).
 
