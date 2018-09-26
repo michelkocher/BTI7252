@@ -27,4 +27,4 @@ Usability soll bedacht werden --> Keep it simple and stupid
 Bis in neun Monaten (Sommer 19) sollten einige Ideen effektiv im Klubhaus realisiert sein
 
 ## Todos
-Joris erstellt Github account --> https://github.com/jorisbaiutti/BTI7252
+Joris erstellt Github repo --> https://github.com/jorisbaiutti/BTI7252
