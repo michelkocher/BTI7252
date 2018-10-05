@@ -34,7 +34,7 @@ Ziel: Egal ob Cloud oder LocalDB es gibt immer die selbe Schnittstelle zur Appli
 
 
 ## Aufgaben  Beschlüsse
-Eine Gruppe definiert das Schmea mit dem Sensor Team
+Eine Gruppe definiert das Schmea des Things sowie die grobe Kommunikation mit dem Sensor Team (Alain, Michel, Lukas)
  * was erhalten wir von den Sensoren
     * Type
     * ID
@@ -43,15 +43,15 @@ Eine Gruppe definiert das Schmea mit dem Sensor Team
  * wie persitiseren wir diese Daten
  * ...
 
-Eine Gruppe definiert die Schnittstelle zu den Applikationen 
+Eine Gruppe definiert die Schnittstelle zu den Applikationen (REST API) (Sascha, Remo, Tobi)
  * Welche Technologie? 
  * Welche Methoden? 
  * Berücksichtigung Metadaten
  * ...
 
-Eine Gruppe widmet sich dem Thema Persistieren / Synchronisieren der Daten
+Eine Gruppe widmet sich dem Thema Persistieren / Synchronisieren der Daten / Techstack (Yoris, Cedric, Lüku)
     * Welche Datenbank?
     * Time Series?
-    * 
+    * Techstack
 
 Boris zeichnet das Flipchart mit dem Big Picture der Fog-Layer noch in schön :) 
