@@ -33,3 +33,7 @@
 ![GIF](https://media.giphy.com/media/3o7TKEfWvUk3eUEWwo/giphy.gif)
 
 # Nachmittag
+
+## Arbeiten in Gruppen
+
+[01_Sensorik](./01_Sensors/Prot_Sens_05102018.md)
