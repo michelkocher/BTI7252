@@ -56,4 +56,4 @@ Eine Gruppe widmet sich dem Thema Persistieren / Synchronisieren der Daten / Tec
 
 Boris zeichnet das Flipchart mit dem Big Picture der Fog-Layer noch in schön :) 
 
-![technology](https://media.giphy.com/media/3oKIPeYIJSEUcbKdt6/giphy.gif)
+![technology](https://media.giphy.com/media/xT5LMSleuVuCe24KLC/giphy.gif)
