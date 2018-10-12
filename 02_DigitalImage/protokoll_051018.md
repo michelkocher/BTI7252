@@ -33,7 +33,7 @@ Ziel: Egal ob Cloud oder LocalDB es gibt immer die selbe Schnittstelle zur Appli
 
 
 
-## Aufgaben  Beschlüsse
+## Aufgaben / Beschlüsse (Zu erledigen bis 26.10)
 Eine Gruppe definiert das Schmea des Things sowie die grobe Kommunikation mit dem Sensor Team (Alain, Michel, Lukas)
  * was erhalten wir von den Sensoren
     * Type
