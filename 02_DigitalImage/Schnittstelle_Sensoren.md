@@ -8,7 +8,7 @@ Die Topic-Struktur kann analog der Datenstruktur aufgebaut werden.
 Für die Datenspeicherung wird folgende Struktur vorgeschlagen. 
 Diese muss je nach eingesetztem Tech-Stack noch angepasst werden. 
 
-```
+```json
 {
     "things": {
         "<thing_uuid>": {
@@ -32,7 +32,7 @@ Diese muss je nach eingesetztem Tech-Stack noch angepasst werden.
 
 Weiter sollen die Daten für die Aufbereitung/Abfrage durch Applikationen noch nach Zeitstempel/Wert abgelegt werden.
 
-```
+```json
 {
     "data": {
         "thing_uuid.entity_uuid": {
