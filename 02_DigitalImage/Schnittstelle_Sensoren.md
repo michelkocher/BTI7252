@@ -43,7 +43,7 @@ Weiter sollen die Daten für die Aufbereitung/Abfrage durch Applikationen noch n
 ```
 
 Für eine weitere Abfrage können die Sensoren noch nach Feature-Type abgelegt werden
-```
+```json
 { "feature_type": {
     "TemperatureSensor": [
         "<thing_uuid>",
